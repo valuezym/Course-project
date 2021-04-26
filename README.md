@@ -1,3 +1,4 @@
+[timetable.xlsx](https://github.com/valuezym/Course-project/files/6379003/timetable.xlsx)
 # Course-project
 import numpy as np
 import openpyxl
@@ -16,7 +17,7 @@ X_BOUND1 = [0, 16]
 X_BOUND2 = [0, 31]
 
 
-file_origin = 'C:\\Users\\13404\\Desktop\\data.xlsx'
+file_origin = 'C:\\Users\\13404\\Desktop\\timetable.xlsx'
 
 def translateDNA(pop):
     temp = copy.deepcopy(pop)
