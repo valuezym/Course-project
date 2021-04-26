@@ -15,7 +15,7 @@ N_GENERATIONS = 500
 X_BOUND1 = [0, 16]         
 X_BOUND2 = [0, 31]
 
-# 最初始的bus schedule
+
 file_origin = 'C:\\Users\\13404\\Desktop\\data.xlsx'
 
 def translateDNA(pop):
